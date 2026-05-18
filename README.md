@@ -1,6 +1,6 @@
 <h1 align="center" fo>Rasyid Nashrun Al-Bilad</h1>
 <p align="center"> College Student • System Analyst </p>
-<p align="center"><a href="https://wakatime.com/@51b471b7-7236-4e61-a38a-be03c38001ae"><img src="https://wakatime.com/badge/user/51b471b7-7236-4e61-a38a-be03c38001ae.svg" alt="Total time coded since May 17 2026" /></a></p>
+<p align="center"><a href="https://wakatime.com/badge/github/RasyidNA14/RasyidNA14"><img src="https://wakatime.com/badge/github/RasyidNA14/RasyidNA14.svg" alt="wakatime"></a></p>
 <hr>
 
 <h2>About</h2>
