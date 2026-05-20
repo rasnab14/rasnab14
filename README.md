@@ -1,6 +1,5 @@
 <h1 align="center" fo>Rasyid Nashrun Al-Bilad</h1>
 <p align="center"> College Student • System Analyst </p>
-<p align="center"><a href="https://wakatime.com/badge/github/RasyidNA14/RasyidNA14"><img src="https://wakatime.com/badge/github/RasyidNA14/RasyidNA14.svg" alt="wakatime"></a></p>
 <hr>
 
 <h2>About</h2>
