@@ -7,7 +7,7 @@
 <hr>
 
 <h2>Wakatime Stats</h2>
-<p align="center"><a href="https://wakatime.com/@rasnab"><img src="https://wakatime.com/share/@rasnab/884c8ae0-4469-46ba-9ab4-917dc0453178.png" /></a></p>
+<p align="center"><a href="https://wakatime.com/@rasnab"><img src="https://wakatime.com/share/@rasnab/606b70ec-0c27-4c28-aa24-88dcec18945f.png" /></a></p>
 <hr>
 
 <h2>Contact</h2>
