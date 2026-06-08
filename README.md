@@ -15,5 +15,5 @@ I am still a student. I am currently studying programming and system analysis at
 ## Link
 
  - [Personal Website](https://rasnab.my.id/)
- - [Linktre](https://linktr.ee/rasnab)
+ - [Linktree](https://linktr.ee/rasnab)
  - rasyidnasrunalbilad31378@gmail.com
