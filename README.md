@@ -1,10 +1,8 @@
 <p>
-    <br>
-    <br>
     <p align="center">Hello, My Name <a href=>Rasyid Nashrun Al-Bilad</a>.</p>
     <p align="center">I'm still a student. i am currently studying programming and system analysis at university.</p>
     <br>
-    <p align="center"><img src=rice_1.gif style="max-width: 30vh;"></p>
+    <p align="center"><img src=rice_1.gif style="width: 25vh;"></p>
     <br>
     <p align="center">Connect with me</p>
     <p align="center" style="margin: 0;"># <a href="https://rasnab.my.id/">Personal Website</a></p>
