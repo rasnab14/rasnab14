@@ -1,5 +1,5 @@
 <p>
-    <p align="center">Hello, My Name <a href=>Rasyid Nashrun Al-Bilad</a>.</p>
+    <p align="center">Hello, My Name <a href="https://rasnab.my.id/">Rasyid Nashrun Al-Bilad</a>.</p>
     <p align="center">I'm still a student. I'm currently studying programming and system analysis at university.</p>
     <br>
     <p align="center"><img src=rice_1.gif style="width: 25vh;"></p>
