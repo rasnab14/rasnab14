@@ -1,19 +1,14 @@
-<h1 align="center">Rasyid Nashrun Al-Bilad</h1>
-<p align="center"> College Student • System Analyst </p>
-
-
-## About
-
-I am still a student. I am currently studying programming and system analysis at university.
-
-
-## Wakatime Stats
-
-[![Wakatime Stats](https://wakatime.com/share/@rasnab/606b70ec-0c27-4c28-aa24-88dcec18945f.png)](https://wakatime.com/@rasnab)
-
-
-## Link
-
- - [Personal Website](https://rasnab.my.id/)
- - [Linktree](https://linktr.ee/rasnab)
- - rasyidnasrunalbilad31378@gmail.com
+<p>
+    <br>
+    <br>
+    <p align="center">Hello, My Name <a href=>Rasyid Nashrun Al-Bilad</a>.</p>
+    <p align="center">I'm still a student. i am currently studying programming and system analysis at university.</p>
+    <br>
+    <p align="center"><img src=rice_1.gif style="max-width: 30vh;"></p>
+    <br>
+    <p align="center">Connect with me</p>
+    <p align="center" style="margin: 0;"># <a href="https://rasnab.my.id/">Personal Website</a></p>
+    <p align="center" style="margin: 0;"># <a href="mailto:rasyidnasrunalbilad31378@gmail.com">Email</a></p>
+    <p align="center" style="margin: 0;"># <a href="https://linktr.ee/rasnab">linktree</a></p>
+    <p align="center" style="margin: 0;"># <a href="https://wakatime.com/@rasnab">wakatime</a></p>
+</p>
